@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'websiteiot4eduarda'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B33125DA6733493DBCFE3AE4B7FFA6C6 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5F5F03DE4EC541BD90B383B9D28938DD }}
           package: .
